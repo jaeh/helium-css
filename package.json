@@ -1,0 +1,23 @@
+{
+  "name": "helium-css",
+  "version": "1.0.0",
+  "description": "Helium is a tool for discovering unused CSS across many pages on a web site.",
+  "main": "helium.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaeh/helium-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaeh/helium-css/issues"
+  },
+  "homepage": "https://github.com/jaeh/helium-css#readme"
+}
